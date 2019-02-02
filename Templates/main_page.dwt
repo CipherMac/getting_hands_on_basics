@@ -1,0 +1,193 @@
+<!doctype html>
+<html>
+	<head>
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Indian design studio</title>
+	<!-- TemplateEndEditable -->
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+	<script src="../js/s3Slider.min.js"></script>
+	<script src="../js/jquery-1.11.3.min.js"></script>
+	<script src="../js/s3Slider.js" type="text/javascript" ></script>
+	<script type="text/javascript" src="../js/ready.js"></script>
+	<script type="text/javascript" src="../js/dropdown.js"></script>
+	<script type="text/javascript" src="../js/swap_images.js"></script>
+	<link href="../css/styles.css" media="screen" type="text/css" rel="stylesheet">
+	<link href="../css/dropdown.css" media="screen" type="text/css" rel="stylesheet">
+	<link href="../css/slide.css" media="screen" type="text/css" rel="stylesheet">
+
+	</head>
+		
+		
+		
+	 <body onLoad="MM_preloadImages('../images/gallery/awp.jpg')">
+	 	
+	 	<div id="wrapper">
+	 	
+ 	 		<div id ="header">
+	 	 		
+	 		<div id="logo">
+	 		
+	 			<img src="../images/logo/Untitled-1.jpg">
+	 		
+	 		</div>
+	 		
+	 		<div id="social">
+	 			<p>
+	 				For Additional Information <br> Please Call 8550xxxxxx
+	 			</p>
+	 			<ul>
+	 				<li><a target="_blank" href="https://www.facebook.com"><img src = "../images/icons/facebook.jpg"></a></li>
+	 				<li> <a target="_blank" href="https://www.twitter.com"><img src ="../images/icons/twitter.jpg"></a></li>
+	 				<li><a target="_blank" href = "https://www.instagram.com"><img src ="../images/icons/insta.jpg"></a></li>
+	 				<li><a target="_blank" href="https://www.linkedin.com"><img src = "../images/icons/linked in.jpg"></a></li>
+	 				<li><a target="_blank" href="https://www.youtube.com"><img src="../images/icons/youtube.jpg"></a></li>
+	 			</ul>
+	 		</div>
+	 		
+	 	</div>
+	 	
+	 	
+	 	<div id="Nav">
+		  <nav>
+				  <ul>
+					<li><a href="#">Welcome</a></li>
+					<li><a href="#">About</a>
+					  <ul class="fallback">
+						<li><a href="#">Sub-Link 1</a></li>
+						<li><a href="#">Sub-Link 2</a></li>
+						<li><a href="#">Sub-Link 3</a></li>
+					  </ul>
+					</li>
+					<li>
+					  <a href="../products.html"> Product </a>
+					  <ul class="fallback">
+						<li><a href="#">Sub-Link 1</a></li>
+						<li><a href="#">Sub-Link 2</a></li>
+						<li><a href="#">Sub-Link 3</a></li>
+						<li><a href="#">Sub-Link 4</a></li>
+					  </ul>
+					</li>
+					<li><a href="../services.html">Services</a></li>
+					<li><a href="../gallery.html">Gallery</a></li>
+					<li><a href="#">FAQ</a></li>
+					<li><a href="#">Contact</a></li>
+				  </ul>
+					</nav>
+		  </div>
+	 	
+	 
+	 	<div id="slider1">
+        <ul id="slider1Content">
+            <li class="slider1Image">
+                <a href=""><img src="../images/banner/1.jpg" alt="1" /></a>
+                <span class="right"><strong>Title text 1</strong><br />Content text...</span></li>
+            <li class="slider1Image">
+                <a href=""><img src="../images/banner/2_image.jpg" alt="2" /></a>
+                <span class="right"><strong>Title text 2</strong><br />Content text...Content text...Content text...Content text...Content text...Content text...Content text...Content text...Content text...Content text...Content text...</span></li>
+            <li class="slider1Image">
+                <img src="../images/banner/3_image.jpg"  alt="3" />
+                <span class="left"><strong>Title text 2</strong><br />Content text...</span></li>
+            <li class="slider1Image">
+                <img src="../images/banner/4_image.jpg"  alt="4" />
+                <span class="left"><strong>Title text 2</strong><br />Content text...</span></li>
+            <li class="slider1Image">
+                <img src="../images/banner/shortguns.jpg" alt="5" />
+                <span class="left"><strong>Title text 2</strong><br />Content text...</span></li>
+            <div class="clear slider1Image"></div>
+        </ul>
+    </div>
+   
+  
+	 	<div id="Content"><!-- TemplateBeginEditable name="Content" -->
+	 	
+	 	
+	 	
+	 		 		<div id = "left-content">
+					  <h1>Welcome To Indian Design Studio Page</h1>
+					  
+						<p> Phasellus eu condimentum augue. Nulla eleifend vestibulum mi, sed gravida lacus pellentesque sit amet. Donec sit amet molestie diam. Integer ut enim sit amet enim vehicula pulvinar sit amet sed mauris. Aliquam erat volutpat. Integer metus elit, ultricies sit amet turpis in, convallis volutpat sem. Nunc blandit porta ligula, eu sodales nisl auctor hendrerit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ac nisi pellentesque, auctor magna id, viverra massa. Aenean lacus lorem, dictum id dictum eget, ultrices pharetra est. Duis dapibus vel massa at lacinia. In eget metus vehicula, fermentum elit id, ultricies lectus. Sed consectetur quis odio nec mollis. Donec fermentum risus ut euismod fermentum. Aliquam dui arcu, mattis ac fringilla ac, posuere et eros.
+						</p>
+						
+						
+						<h2>This is a sub heading </h2>
+						<p>Duis in pretium erat, et cursus lorem. Fusce vehicula at sem eu condimentum. Suspendisse ligula erat, mollis eu consectetur nec, hendrerit et dolor. Donec augue enim, maximus a dapibus vitae, venenatis id nulla. In nec leo lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer semper vehicula risus quis bibendum. Duis tempor, enim viverra posuere vestibulum, erat lorem malesuada tellus, et accumsan orci odio eget nunc. Praesent eget metus eget nibh auctor molestie ac eu diam. Aliquam ullamcorper bibendum purus sed laoreet. Suspendisse vel tellus ut velit venenatis facilisis. Aenean porttitor facilisis massa, vel porta tortor finibus ac. Phasellus vitae vestibulum lectus.
+						</p>
+						
+					 
+ 		 			<div id ="box1">
+ 		 				<img src="../images/gallery/awp01.jpg" id="Image1" onMouseOver="MM_swapImage('Image1','','../images/gallery/awp.jpg',1)" onMouseOut="MM_swapImgRestore()"   >
+ 		 				<h2>This is a subheading</h2>
+ 		 				<p>
+ 		 					Donec eu nunc quis lectus porttitor finibus at id nisl. Nunc suscipit pharetra nisl ullamcorper iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc mattis tempus sem, sed volutpat orci commodo at. Nam quis accumsan ante.
+ 		 				</p>
+ 		 			</div>
+ 		 			<div id = "box2">
+ 		 				<img src = "../images/gallery/awp01.jpg" id="Image2" onMouseOver="MM_swapImage('Image2','','../images/gallery/awp.jpg',1)" onMouseOut="MM_swapImgRestore()" >
+ 		 				<h2>This is a subheading</h2>
+ 		 				<p>
+ 		 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sollicitudin ante non neque laoreet efficitur. Nullam maximus purus eget neque mattis placerat. Vestibulum sit amet ipsum a sapien viverra tristique.
+ 		 				</p>
+ 		 			</div>
+ 		 			
+ 		 			<div id="sub">
+ 		 			<h2><br>This is another subheading</h2>
+					 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sollicitudin ante non neque laoreet efficitur. Nullam maximus purus eget neque mattis placerat. Vestibulum sit amet ipsum a sapien viverra tristique. Duis rhoncus, tortor quis aliquet mollis, odio magna ullamcorper augue, non suscipit ante ex non purus. Maecenas malesuada, arcu at tristique feugiat, lacus eros tempor ex, eget lobortis quam libero et lorem. Suspendisse congue ex elit, sed rutrum sapien pellentesque nec. Maecenas sit amet bibendum turpis. Pellentesque tincidunt lobortis elit in euismod. Duis interdum varius pulvinar. Cras pretium id justo in tincidunt. Nam turpis nisi, porta id tortor a, aliquam euismod sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper fringilla dui sit amet laoreet. Maecenas suscipit maximus vehicula. Maecenas quis neque sed nibh pulvinar cursus vel non elit. Cras ut purus tempus, accumsan dui sit amet, tincidunt sem.
+						</p>
+						</div>
+					 <img src="../images/gallery/awp.jpg" >
+					 <p>This is some final text on this page</p> 
+	 		 		
+	 		 		
+	 		 		<!-- TemplateEndEditable -->
+ 		  </div>	 		
+	 		 		
+	 		 		
+	 		 		<div id="right-content">
+						<h2>This is a sidebar heading</h2>
+							<p>
+								Donec eu nunc quis lectus porttitor finibus at id nisl. Nunc suscipit pharetra nisl ullamcorper iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc mattis tempus sem, sed volutpat orci commodo at. Nam quis accumsan ante.
+							</p>
+						<img src="../images/gallery/awp.jpg" >
+						
+						<p>
+						Donec eu nunc quis lectus porttitor finibus at id nisl. Nunc suscipit pharetra nisl ullamcorper iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc mattis tempus sem, sed volutpat orci commodo at. Nam quis accumsan ante.
+							</p>
+						<h2>Side bar subheading</h2>
+						<ul>
+							<li>Item 1</li>
+							<li>Item 2</li>
+							<li>Item 3</li>
+							<li>Item 4</li>
+							<li>Item 5</li>
+						</ul>
+						<p>Donec eu nunc quis lectus porttitor finibus at id nisl. Nunc suscipit pharetra nisl ullamcorper iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc mattis tempus sem, sed volutpat orci commodo at. Nam quis accumsan ante.</p>
+	 		 		</div>
+	 	</div>
+	 	<div id = "headline">
+	 	<h1>Contact Here</h1>
+	 	</div>
+	 	<div id = "forms">
+	 			
+	 		<form>
+	 			<ul>
+	 			<li>Enter your Name<input type="email" autocomplete="on"></li>
+	 			<li>Enter your Suggestion</li>
+	 			<li><textarea draggable="auto" maxlength="300"></textarea></li>
+	 			<li><input type="reset"> <input type="submit"></li>
+</ul>
+	 		</form>
+	 	</div>
+	 	
+	 	<div id="footer">
+	 		
+	 		<p id="end1">&copy;COPYRIGHT 2017 | ALL RIGHTS RESERVED | ABC COMPANY PLOT NO 123 pin 985246 | 555.555.5545</p>
+	 		<p id="end2">Website Designed by MASEM MANDAL</p>
+	 		
+	 	</div>
+	 	
+	 	</di
+	 </body>
+</html>

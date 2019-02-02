@@ -1,0 +1,59 @@
+/*
+font-family: 'Oswald', sans-serif;
+font-family: 'EB Garamond', serif;
+font-family: 'Satisfy', cursive;
+
+
+*/
+*						{margin: 0px; padding: 0px; border: 0px;}
+
+
+body					 {background-color: bisque;}
+p 						 {padding: 10px 10px; font-size: 14px;line-height: 150% ;font-family:'EB Garamond'; font-weight: 							100;}
+
+
+
+#wrapper 				{ width:900px;margin: 10px auto;
+							background-color: white;
+							padding:0px 40px;}
+
+
+
+#logo	 				{float: left;
+							margin: 50px 0px;}
+
+
+#social 				{float: right;
+							margin:40px 0px;
+							text-align: right; 
+							font-weight: bold;}
+#social ul              { padding: 5px 5px; margin: 2px 0px;}
+#social ul li 	 		{display: inline;
+ 						list-style-type: none;}
+#social p  				{font-weight: bold;}
+
+h1, h2, h3              {font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";  padding: 10px 10px; }
+h2                      {color:royalblue;}
+h1 						{border-bottom: dotted #000000 1px; font-family: 'Oswald';color: blueviolet;}
+
+
+							
+#left-content 			{float: left; width: 600px; }
+
+#box1					{float:left; width: 300px; }
+#box1	img				{align-items: center;}
+#box2					{float:right; width: 300px; }
+
+#right-content			{float:right; width: 300px; }
+#right-content ul li	{ list-style-type: disc; margin: 0px 40px;}
+
+#sub 					{clear:both;}
+
+
+#end1,#end2						{padding: 5px 5px; font-size: 14px;line-height: 100% ;font-family:'EB Garamond'; font-weight:100; }
+
+#headline  				{clear:both;}
+#forms 					{ clear:both;padding-left: 400px;}
+#forms ul 				{text-decoration: none;}
+
+#footer 				{clear: both; text-align: center;}
